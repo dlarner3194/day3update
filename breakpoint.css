@@ -1,0 +1,168 @@
+body{
+	margin: 0;
+}
+
+.header{
+	background-color: white;
+	overflow: hidden;
+}
+
+.logo{
+	color: #7F7F7F;
+	font-size: 24px;
+	text-align: center;
+	float: left;
+	margin: 0 auto;
+	box-sizing: content-box;
+	padding: 10px;
+}
+
+.home{
+	color: #7F7F7F;
+	font-size: 24px;
+	text-align: center;
+	float: left;
+	margin: 0 auto;
+	box-sizing: content-box;
+	padding: 10px;
+}
+
+.pricing{
+	color: #7F7F7F;
+	font-size: 24px;
+	text-align: center;
+	float: left;
+	margin: 0 auto;
+	box-sizing: content-box;
+	padding: 10px;
+}
+
+.contact{
+	color: black;
+	font-size: 24px;
+	text-align: center;
+	float: left;
+	margin: 0 auto;
+	box-sizing: content-box;
+	padding: 10px;
+}
+
+.bluebox{
+	background-color: #2E4A83;
+	height: 355px;
+	width: 100%;
+}
+
+.bluebox-text{
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 36px;
+	float: left;
+	padding: 125px 10px;
+}
+
+.dataentry{
+	background-color: white;
+	height: 680px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.name{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 35px 0px 10px 40px;
+}
+
+.namebox{
+	height: 55px;
+	width: 500px;
+	border: 1px solid #808080;
+	margin: 0 auto;
+}
+
+.email{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 35px 0px 10px 40px;
+}
+
+.message{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 35px 0px 10px 40px;
+}
+
+.message-box{
+	width: 501px;
+	height: 207px;
+	border: 1px solid #808080;
+	margin: 0 auto;
+}
+
+.submit-text{
+	color: black;
+	font-size: 20px;
+	margin: 0;
+}
+
+.submit-button{
+	height: 55px;
+	width: 133px;
+	border-radius: 30px;
+	border: 1px solid #808080;
+	display: block;
+	box-sizing: content-box;
+	margin: 30px 40px;
+}
+
+.extra-info{
+	width: 100%;
+	height: 481px;
+	border-top: 1px solid #808080;
+}
+
+.contact{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 35px 0px 10px 40px;
+}
+
+.contact-text{
+	float: left;
+	color: black;
+	font-size: 20px;
+	padding: 10px 0px 10px 40px;
+}
+
+.more-info{
+	float: left;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 35px 0px 10px 40px;
+}
+
+.more-info-text{
+	float: left;
+	color: black;
+	font-size: 20px;
+	padding: 10px 0px 10px 40px;
+}
+
+.bottom{
+	width: 100%;
+	height: 145px;
+	background-color: black
+}
+
+.bottom-text{
+	color: #808080;
+	text-align: center;
+	font-size: 20px;
+}
