@@ -48,7 +48,7 @@ body{
 }
 
 .bluebox{
-	background-color: #2E4A83;
+	background-image: url("background2.jpg");
 	height: 355px;
 	width: 100%;
 }
