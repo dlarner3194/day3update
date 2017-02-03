@@ -58,17 +58,14 @@ body{
 	text-align: center;
 	margin: 0 auto;
 	font-size: 36px;
-	float: left;
 	padding: 125px 10px;
 	line-height: 1.5;
 }
 
 .green-box{
 	background-color: #519251;
-	width: 450px;
 	height: 221px;
-	margin: 55px 0 0 10px;
-	float: left;
+	margin: 55px 10px 0 10px;
 }
 
 .personal1{
@@ -92,91 +89,22 @@ body{
 	letter-spacing: 1.5px;
 }
 
-.free-setup{
+.option-box{
 	background-color: #F7F7F7;
-	width: 448px;
 	height: 46px;
 	margin: 0 10px;
 	border: 1px solid grey;
-	float: left;
+	border-top: none;
 	text-align: center;
 	line-height: 3;
-}
-
-.sub-domain{
-	background-color: #F7F7F7;
-	width: 448px;
-	height: 46px;
-	margin: 0 10px;
-	border: 1px solid grey;
-	float: left;
-	text-align: center;
-	line-height: 3;
-}
-
-.support{
-	background-color: #F7F7F7;
-	width: 448px;
-	height: 46px;
-	margin: 0 10px;
-	border: 1px solid grey;
-	float: left;
-	text-align: center;
-	line-height: 3;
-}
-
-.storage{
-	background-color: #F7F7F7;
-	width: 448px;
-	height: 46px;
-	margin: 0 10px;
-	border: 1px solid grey;
-	float: left;
-	text-align: center;
-	line-height: 3;
-}
-
-.database{
-	background-color: #F7F7F7;
-	width: 448px;
-	height: 46px;
-	margin: 0 10px;
-	border: 1px solid grey;
-	float: left;
-	text-align: center;
-	line-height: 3;
-}
-
-.bandwith{
-	background-color: #F7F7F7;
-	width: 448px;
-	height: 46px;
-	margin: 0 10px;
-	border: 1px solid grey;
-	float: left;
-	text-align: center;
-	line-height: 3;
-}
-
-.choose{
-	background-color: white;
-	width: 448px;
-	height: 90px;
-	margin: 0 10px;
-	border: 1px solid grey;
-	float: left;
-	text-align: center;
-	line-height: 3;
-	padding-top: 45px;
 }
 
 .choose1{
 	background-color: white;
-	width: 448px;
 	height: 90px;
 	margin: 0 10px;
 	border: 1px solid grey;
-	float: left;
+	border-top: none;
 	text-align: center;
 	line-height: 3;
 	padding-top: 45px;
@@ -204,10 +132,8 @@ body{
 
 .blue-box{
 	background-color: #2C4985;
-	width: 450px;
 	height: 221px;
-	margin: 55px 0 0 10px;
-	float: left;
+	margin: 55px 10px 0 10px;
 }
 
 .small-business{
@@ -230,10 +156,8 @@ body{
 
 .black-box{
 	background-color: black;
-	width: 450px;
 	height: 221px;
-	margin: 55px 0 0 10px;
-	float: left;
+	margin: 55px 10px 0 10px;
 }
 
 .black-box > .per-month{
@@ -256,7 +180,7 @@ body{
 }
 
 .bottom{
-	width: 100%;
+	bottom: 0;
 	background-color: black;
 	color: #808080;
 	text-align: center;
