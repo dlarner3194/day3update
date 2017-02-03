@@ -189,13 +189,10 @@ body{
 	margin-top: 50px;
 }
 
-.pricing-boxes{
+.row{
 	overflow: hidden;
 }
 
-.descript-boxes{
-	overflow: hidden;
-}
 
 a{
 	color: white;
@@ -222,6 +219,13 @@ a{
 	.descript-box{
 		width: 50%;
 		float: left;
+	}
+}
+
+@media screen and (min-width: 979px){
+	.row{
+		width: 965px;
+		margin: 0 auto;
 	}
 }
 
