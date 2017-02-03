@@ -189,6 +189,40 @@ body{
 	margin-top: 50px;
 }
 
+.pricing-boxes{
+	overflow: hidden;
+}
+
+.descript-boxes{
+	overflow: hidden;
+}
+
 a{
 	color: white;
 }
+
+@media screen and (min-width: 479px){
+	.pic-box{
+		height: 400px;
+	}
+
+	.pic-text{
+		font-size: 48px;
+	}
+}
+
+@media screen and (min-width: 767px){
+	.pricing-box{
+		width: 33.3%;
+		float: left;
+	}
+}
+
+@media screen and (min-width: 767px){
+	.descript-box{
+		width: 50%;
+		float: left;
+	}
+}
+
+
